@@ -5,13 +5,9 @@ This repository features a variety of mini projects and scripts designed to buil
 ## Features
 
 * Automated browser actions (clicks, typing, scrolling)
-
 * Web scraping using Selenium
-
 * Handling dynamic content and waits
-
 * Working with iframes, alerts, and multiple windows
-
 * Basic test automation patterns
 
 ## Requirements
