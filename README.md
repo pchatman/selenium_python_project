@@ -20,3 +20,5 @@ This repository features a variety of mini projects and scripts designed to buil
 ## Selenium Cheat Sheet 
 
 [Selenium-Cheat-Sheet](documents/Selenium-Cheat-Sheet.pdf)
+
+> [!NOTE] The projects are listed in no particular order. Some may be incomplete.
